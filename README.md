@@ -3,5 +3,6 @@ In order to execute the above models. It is important that you also have the dat
 
 Upon executing the code, you will see the comparison between Graph Neural Networks and traditional network analysis models 
 
-Model 1: Lymphocyte Detection
-![LymphocyteGNNResult][LymphocyteGNN.png]
+Model 1: Physician Dataset Network
+<img width="707" height="422" alt="PhysicianGNN" src="https://github.com/user-attachments/assets/527c7218-383b-4185-9815-16ae7186f7eb" />
+
